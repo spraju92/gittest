@@ -1,0 +1,129 @@
+nav{
+	background: black;
+	
+	position: fixed;
+	width: 100%;
+	margin-top: -10px;
+	
+}
+#s1{
+	margin-left: 626px;
+	height: 110px;
+	width: 110px;
+}
+#f1{
+	height: 110px;
+}
+li{
+	display: inline;
+}
+.navbar h1,a{
+	
+	padding: 10px;
+	size: 300px;
+	text-decoration: none;
+
+}
+.navbar a{
+	color: white;
+}
+.grid_4{
+	margin-top: 180px;
+}
+
+.grid_4 img{
+	height: 250px;
+	width: 300px;
+	margin-right:50px;
+	background: lightblue;
+	
+}
+#section1{
+	background: Cornsilk;
+}
+#section2{
+	background: Cornsilk;
+}
+#section3{
+	background: Cornsilk;
+}
+.herounit{
+	background: #2d2d2a;
+	width: 100%;
+	float: right;
+	margin-top: 50px; 
+	text-align: center;
+
+}
+
+.herounit span{
+	font-size: 20px;
+	
+}
+
+.herounit h1{
+	font-size: 28px;
+	color: white;
+
+
+}
+.herounit figcaption{
+	color: white;
+}
+.herounit img{
+	height: 300px;
+	width: 500px;
+}
+.grid_6 h2{
+text-align: right;
+}
+.grid_6 img{
+	height: 500px;
+	width:450px;
+	margin-top:60px;
+	margin-right:50px;
+}
+.sub1{
+	margin-top: 60px;
+}
+.sub1 img{
+	height: 200px;
+	width: 450px;
+
+}
+.sub2{
+	margin-top: 40px;
+	margin-right:50px;
+	width: 400px;
+	background: Cornsilk ;
+}
+.sub2 h4{
+    font-family: italic;
+    font-size: 15px;
+}
+.sub3{
+	margin-top: 80px;
+	margin-right:50px;
+	background: LightCyan ;
+}
+.footer{
+	background:#27292d;
+	margin: auto;
+	text-align: center;
+	padding-right: 30px; 
+	display: block;
+}
+
+footer a{
+	font-size:36px;
+	color:white;
+}
+
+section{
+	
+	margin: auto;
+	padding-top: 20px;
+	float: left; 
+}
+
+
