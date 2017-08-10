@@ -1,16 +1,18 @@
 nav{
 	background: black;
 	margin-top: -10px;
-	position: fixed;
-	
-	
+	position: fixed;	
+	width: 100%;
 }
-#s1{
-	margin-left: 479px;
+body{
+	font-family: Andada;
+}
+#navimg1{
+	margin-left: 540px;
 	height: 110px;
 	width: 110px;
 }
-#f1{
+#navimg2{
 	height: 110px;
 }
 ul{
@@ -33,6 +35,7 @@ li{
 }
 .grid_4{
 	margin-top: 220px;
+	height: 400px;
 
 }
 
@@ -45,15 +48,14 @@ li{
 }
 #section1{
 	background: Cornsilk;
-	font-family: Atomic Age;
+	font-family: Andada;
 }
 #section2{
 	background: Cornsilk;
-	font-family: Amita;
+	
 }
 #section3{
 	background: Cornsilk;
-	font-family: Baumans;
 }
 .herounit{
 	background: #2d2d2a;
@@ -72,7 +74,7 @@ li{
 .herounit h3{
 	font-size: 28px;
 	color: white;
-	font-family: Baumans;
+	
 
 
 }
@@ -84,8 +86,8 @@ li{
 	width: 500px;
 }
 .grid_6{
-font-family: Amita;
 font-size: 18px;
+height: 650px;
 }
 .grid_6 img{
 	height: 500px;
@@ -93,45 +95,37 @@ font-size: 18px;
 	margin-top:60px;
 	margin-right:50px;
 }
-.sub1{
-	margin-top: 60px;
+#section4{
+	
 }
-.sub1 img{
+.row3col3{
+	background: MintCream ;
+}
+.row3col1 img{
 	height: 200px;
 	width: 450px;
-
 }
-.sub2{
-	margin-top: 15px;
+.row3col2{
+	margin-top: 0px;
 	margin-right:50px;
 	width: 400px;
 	background: Cornsilk ;
 }
-.sub2 h4{
-    font-family: Sofia;
-    font-size: 20px;
-}
-.sub3{
-	margin-top: 15px;
-	margin-right:50px;
-	background: LightCyan ;
-	font-size: Amita;
-}
-.sub3 h4{
-	font-size: Amita;
-}
+
 .footer{
 	background:#27292d;
 	margin: auto;
 	text-align: center;
 	padding-right: 30px; 
 	display: block;
-	margin-bottom: -20px;
+	margin-bottom: -100px;
+	margin-top: 50px;
 	
 }
 footer a{
 	font-size:36px;
 	color:white;
+	display: white;
 }
 footer h2{
 	font-family: Croissant One;
