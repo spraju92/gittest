@@ -1,2 +1,2 @@
-This is my Readme file..
+First Assignment of HTML and CSS completed...
 Here i did my first web site..called namely spicy food zone..
